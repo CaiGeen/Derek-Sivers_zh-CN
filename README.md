@@ -13,12 +13,14 @@
 - [如何致富](https://readit.site/a/kYUkH "How to get rich")
 - [给想精进的 19 岁吉他手建议](https://readit.site/a/t6Vpe "Advice for a 19-year-old guitarist who wants to be a session musician.")
 
-我写过 4 篇德雷克的文章，分别是：
+我写过 6 篇德雷克的文章，分别是：
 
 - [我从 Derek Sivers 身上学到的](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488379&idx=1&sn=a4d6863665a56a73496dcb57f2daff13&chksm=eb21a13fdc562829378860886e04bb34196313f90187afc0fed9dfa80b7a6f9344dcd4733979&token=395037982&lang=zh_CN#rd)
 - [最爱的 4 篇 Derek Sivers 博文](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488381&idx=1&sn=5fdfdc3b7545c5268dd3b23d15f27f6f&chksm=eb21a139dc56282f3b315b83c86d3ec50f718ec88a42805b88ba55465a80967cbccf19cdcbd1&token=395037982&lang=zh_CN#rd)
 - [Derek Sivers 给我的 4 个启发](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488385&idx=1&sn=9fe747b683aed0e765f49817de23ef80&chksm=eb21a1c5dc5628d375b53de33b654269ba06236cf9d7d44a95d2c8287b5d066c1c3d9105af23&token=395037982&lang=zh_CN#rd)
 - [德雷克博文里 7 个过目不忘的比喻](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488395&idx=1&sn=368d66b86c94939883e4a9d0fca42624&chksm=eb21a1cfdc5628d9dc5e7fb7589c031b3a66aa230d32fbd873f14fb2020c52bbefb950322f64#rd)
+- [德雷克 39 条与众不同的反常识](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488404&idx=1&sn=5dc77b6849d7cb8d0a6edbc3f65fd6fa&chksm=eb21a1d0dc5628c6e15d4d4a3b262d6175a1ad09f7be616e23e194c54e1e92cfba2c7a54eb90#)
+- [遇事不决照着干，德雷克 31 条操作指南](https://mp.weixin.qq.com/s?__biz=MzI3MzU5MDA1OQ==&mid=2247488416&idx=1&sn=81599fcc7d5ebe8b8aea352d91fdf5ec&chksm=eb21a1e4dc5628f2326b7fa38b86dd408659604248cae5384a90e841d46989564da0c92de153#)
 
 再结合德雷克自己写的[小传](https://readit.site/a/yDPvK "Derek Sivers - 关于我")，他的轮廓就出来了。他助人为乐，自学音乐、编程、创业……崇尚技术独立，善用杠铃策略。
 
